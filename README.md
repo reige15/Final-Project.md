@@ -6,4 +6,5 @@
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/health-literacy---part-iii--/"><h1>Health Literacy  </h1><p>Making Informed Decisions from Misinterpreted Information</p></div>
 
 
+
 [Back to Main Page](/Reige-Portfolio/)
